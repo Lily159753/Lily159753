@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lilin Wang (Lily)
+- 👋 Hi, I’m Lilin W
 - 👀 I’m passionate about computational-driven biological and clinical discovery
 - 🌱 I’m currently studying pharmacogenomics
 - 📫 You can reach me via email!
