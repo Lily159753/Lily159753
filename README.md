@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lilin W
 - 👀 I’m passionate about computational-driven biological and clinical discovery
-- 🌱 I’m currently studying pharmacogenomics
+- 🌱 I’m currently studying pharmacogenomics in the University of Minnesota (Go Gophers!)
 - 📫 You can reach me via email!
 - ⚡ Fun fact: I’ve loved all my biology teachers from middle school to university!
 
