@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Lilin W
-- 👀 I’m passionate about computational-driven biological and clinical discovery
-- 🌱 I’m currently studying pharmacogenomics in the University of Minnesota (Go Gophers!)
-- 📫 You can reach me via email!
-- ⚡ Fun fact: I’ve loved all my biology teachers from middle school to university!
+Hi, I’m Lilin W
+ I’m passionate about computational-driven biological and clinical discovery
+ I’m currently studying pharmacogenomics in the University of Minnesota (Go Gophers!)
+You can reach me via email!
+Fun fact: I’ve loved all my biology teachers from middle school to university!
 
 <!---
 Lily159753/Lily159753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
